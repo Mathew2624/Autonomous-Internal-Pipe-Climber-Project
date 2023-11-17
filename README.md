@@ -3,7 +3,7 @@
 
   <h1>Case Study: Autonomous Internal Pipe Climber Project</h1>
   <h2>Design Showcase:</h2>
-<img width="500" alt="Coding" src="https://github.com/Mathew2624/Case-Study-Assembly-Design-Project/assets/150618966/2e5fcbab-96e8-4754-8206-89fc3e190f25">
+<img width="500" alt="Coding" src="hhttps://github.com/Mathew2624/Autonomous-Internal-Pipe-Climber-Project/assets/150618966/e94c1630-8c8b-4318-9f8f-2b9745afaef6">
 
 
   <h2>Objective:</h2>
